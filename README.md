@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**My name is: Badare Basem Simon
+#### My name is: Badare Basem Simon
 
 - 🔭 I’m ReactJS/NextJS/NodeJS/Typescript developer
 - 👯 I’m looking to collaborate on your next project
