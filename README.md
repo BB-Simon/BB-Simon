@@ -11,4 +11,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BB-Simon)](https://github.com/ryo-ma/github-profile-trophy) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BB-Simon&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-Simon)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BB-Simon&show_icons=true&count_private=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-Simon)](https://github.com/anuraghazra/github-readme-stats)
