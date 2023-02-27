@@ -14,3 +14,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BB-Simon&show_icons=true&count_private=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-Simon)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BB-Simon&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
