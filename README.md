@@ -18,6 +18,7 @@ class Programmer {
 
 const simon = new Programmer('BB Simon', 'full stack software developer')
 ```
+<hr />
 
 ## 🚀 Skills and Tools <a name="skills-and-tools"></a>
 
@@ -45,3 +46,4 @@ const simon = new Programmer('BB Simon', 'full stack software developer')
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="45" height="45"/>
 </p>
+<hr />
