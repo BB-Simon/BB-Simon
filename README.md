@@ -12,11 +12,12 @@
 class Programmer {
   constructor(name, occupation){
     this.name = name;
-    this.occupation = occupation
+    this.occupation = occupation;
+    this.location = location
   }
 }
 
-const simon = new Programmer('BB Simon', 'full stack software developer')
+const simon = new Programmer('BB Simon', 'Full Stack Software Developer', 'Cairo, Egypt')
 ```
 <hr />
 
