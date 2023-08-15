@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Hi%20There%20👋-nl-I%20am%20BB%20Simon,&fontSize=40" />
+  ![bannaer (2)](https://github.com/BB-Simon/BB-Simon/assets/55967946/dca5b3d1-ac23-4aa9-a899-9291928d111d)
+
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Hi%20There%20👋-nl-I%20am%20BB%20Simon,&fontSize=40" /> -->
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://tenor.com/view/computer-code-gif-19687446.gif" height="200px" />
-</p>
+</p> -->
 <hr/>
 
 ## 👨🏻‍💻 A little bit about me <a name="about-me"></a>
