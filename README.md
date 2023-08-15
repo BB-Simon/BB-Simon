@@ -1,5 +1,7 @@
 <p align="center">
-  ![bannaer (2)](https://github.com/BB-Simon/BB-Simon/assets/55967946/dca5b3d1-ac23-4aa9-a899-9291928d111d)
+<!--   ![bannaer (2)](https://github.com/BB-Simon/BB-Simon/assets/55967946/dca5b3d1-ac23-4aa9-a899-9291928d111d) -->
+
+<img src="https://github.com/BB-Simon/BB-Simon/assets/55967946/dca5b3d1-ac23-4aa9-a899-9291928d111d" width="100%" height="100%" />
 
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Hi%20There%20👋-nl-I%20am%20BB%20Simon,&fontSize=40" /> -->
 </p>
