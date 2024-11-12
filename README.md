@@ -11,16 +11,42 @@
 
 ## 👨🏻‍💻 A little bit about me <a name="about-me"></a>
 
-```javascript,
+```javascript
 class Programmer {
-  constructor(name, occupation, location){
+  #languages;
+  constructor(name, languages) {
     this.name = name;
-    this.occupation = occupation;
-    this.location = location;
+    this.#languages = languages;
+  }
+
+  #knownLanguages() {
+    console.log(`$expert in the following languages: ${this.#languages.join(', ')}`);
+  }
+
+  showLanguages() {
+    this.#knownLanguages();
   }
 }
 
-const simon = new Programmer('BB Simon', 'Full Stack Software Developer', 'Cairo, Egypt')
+class Simon extends Programmer {
+  constructor(name, languages, occupation, location) {
+    super(name, languages);
+    this.occupation = occupation;
+    this.location = location;
+  }
+
+  codeIn(frameworks) {
+    console.log(`${this.name} is coding in the following frameworks: ${frameworks.join(', ')}.`);
+  }
+
+  introduce() {
+    console.log(`Hi, I'm ${this.name}. I'm a ${this.occupation} living in ${this.location} and I am ${this.showLanguages()}.`);
+  }
+}
+
+const bbsimon = new Simon('BB Simon', ['JavaScript', 'TypeScript', 'Node.js', 'Ruby', 'Ruby on Rails', 'Express.js', 'React.js', 'Next.js'], 'Software Engineer', 'Cairo, Egypt');
+bbsimon.introduce();
+bbsimon.codeIn(['React.js', 'Next.js', 'Express.js', 'Rails']);
 ```
 <hr />
 
