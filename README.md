@@ -35,12 +35,12 @@ class Simon extends Programmer {
     this.location = location;
   }
 
-  codeIn(frameworks) {
-    console.log(`${this.name} is coding in the following frameworks: ${frameworks.join(', ')}.`);
-  }
-
   introduce() {
     console.log(`Hi, I'm ${this.name}. I'm a ${this.occupation} living in ${this.location} and I am ${this.showLanguages()}.`);
+  }
+
+  codeIn(frameworks) {
+    console.log(`${this.name} is coding in the following frameworks: ${frameworks.join(', ')}.`);
   }
 }
 
