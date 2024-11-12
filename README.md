@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 A little bit about me <a name="about-me"></a>
 
-```js,
+```javascript,
 class Programmer {
   constructor(name, occupation, location){
     this.name = name;
