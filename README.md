@@ -44,9 +44,9 @@ class Simon extends Programmer {
   }
 }
 
-const bbsimon = new Simon('BB Simon', ['JavaScript', 'TypeScript', 'Node.js', 'Ruby', 'Ruby on Rails', 'Express.js', 'React.js', 'Next.js'], 'Software Engineer', 'Cairo, Egypt');
-bbsimon.introduce();
-bbsimon.codeIn(['React.js', 'Next.js', 'Express.js', 'Rails']);
+const { introduce, codeIn } = new Simon('BB Simon', ['JavaScript', 'TypeScript', 'Node.js', 'Ruby', 'Ruby on Rails', 'Express.js', 'React.js', 'Next.js'], 'Software Engineer', 'Cairo, Egypt');
+introduce();
+codeIn(['React.js', 'Next.js', 'Express.js', 'Rails']);
 ```
 <hr />
 
